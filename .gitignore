@@ -1,3 +1,6 @@
 # for editor
 *~
 *.swp
+
+# for ide
+.idea
